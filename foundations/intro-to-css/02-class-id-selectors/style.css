@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd-numbered {
+  background-color: lightpink;
+  font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+#numero-dos {
+  color: blue;
+  font-size: 36px;
+}
+
+.numero-tres {
+  font-size: 24px;
+}
+
+#numero-cuatro {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
